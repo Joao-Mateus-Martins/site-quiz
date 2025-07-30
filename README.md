@@ -7,4 +7,4 @@
 <img width="512" height="816" alt="Captura de tela 2025-07-28 212139" src="https://github.com/user-attachments/assets/a9b36288-b529-4941-97ca-f60d433bb058" />
   <h2>⬇️Abra o site na pagina aqui </h2> 
   
-<a href=https://joao-mateus-martins.github.io/site-quiz/>![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)</a>
+<a href=https://site-quiz-five.vercel.app/>![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)</a>
